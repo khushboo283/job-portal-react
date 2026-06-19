@@ -4,7 +4,7 @@ A responsive React-based job portal interface that dynamically displays job list
 
 ## Preview
 
-![Job Portal UI](./src/assets/screenshot.png)
+![Job Portal UI](./src/assets/Screenshot.png)
 
 ## Features
 - Dynamic job cards
